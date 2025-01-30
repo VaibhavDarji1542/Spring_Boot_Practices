@@ -1,0 +1,8 @@
+<suite name="Parallel Suite">
+    <test name="Parallel Tests">
+        <parameter name="url" value="https://www.google.com"/>
+        <classes>
+            <class name="TryPackage.ParallelTest"/>
+        </classes>
+    </test>
+</suite>
