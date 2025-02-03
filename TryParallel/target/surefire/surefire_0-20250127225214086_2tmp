@@ -1,5 +1,0 @@
-#surefire_0
-#Mon Jan 27 22:52:14 IST 2025
-basedir=/home/vaibhavdarji/eclipse-workspace/TryParallel
-localRepository=/home/vaibhavdarji/.m2/repository
-surefire.suiteXmlFiles=XMLFiles/tryXML.xml
